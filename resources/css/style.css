@@ -1,0 +1,38 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+#upper,
+.middle {
+  background-image: url("/Users/carwenvoon1/broadway/resources/images/the-flatiron-building.png");
+  color: white;
+}
+h1,
+h2,
+h3,
+.middle {
+  font-weight: bold;
+}
+h1 {
+  font-size: 70px;
+}
+h4 a{
+  font-size: 18px;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+}
+h3,
+.middle {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+#end {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
